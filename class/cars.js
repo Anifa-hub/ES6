@@ -13,7 +13,7 @@ class cars{
    
 }
 let first = new cars('Toyota','2003','Kigali')
-let second = new cars('Rav4','2010','Musanze')
+let second = new cars('Rav4','2010','Musanze');
 
 first.method1()
 second.method2()
